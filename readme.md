@@ -14,9 +14,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+</br>
  ## 👨🏻‍💻 &nbsp;About Me
 
-- 👋 Hi, I’m @ayushi170-20 aka Ayushi Chaudhary
+- 👋 Hi, I’m @ayushi1709-20 aka Ayushi Chaudhary
 - 👀 I’m interested in new techonlogies
  
 - 📫 Email: ayushichaudhary1709@gmail.com
