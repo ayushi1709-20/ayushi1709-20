@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </br>
- ## 👨🏻‍💻 &nbsp;About Me
+  👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @ayushi1709-20 aka Ayushi Chaudhary
 - 👀 I’m interested in new techonlogies
@@ -44,11 +44,11 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 
-[![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmicro)](https://github.com/asmicro/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=asmicro&theme=cobalt)](https://github.com/asmicro)
+[![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushi1709-20)](https://github.com/ayushi1709-20/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ayushi1709-20&theme=cobalt)](https://github.com/ayushi1709-20)
 </div>
 <!--
-*asmicro/asmicro* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*ayushi1709-20/ayushi1709-20* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
