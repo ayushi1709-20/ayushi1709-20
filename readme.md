@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=asmicro&style=flat-square&color=blue" alt=""/>
+  <img align= "center" src="https://komarev.com/ghpvc/?username=asmicro&style=flat-square&color=blue" />
   <h1 align="center">
-  hey there
+  Hey there!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -44,7 +44,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 
-[![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushi1709-20)](https://github.com/ayushi1709-20/github-readme-stats)
+[![Ayushi's GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=ayushi1709-20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ayushi1709-20&theme=cobalt)](https://github.com/ayushi1709-20)
 </div>
 <!--
