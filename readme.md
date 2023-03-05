@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m @ayushi1709-20 aka Ayushi Chaudhary
 - 👀 I’m interested in new techonlogies
- 
+- 💞️ I’m looking to collaborate on Frontend and Blockchain Development Internships.
 - 📫 Email: ayushichaudhary1709@gmail.com
 - 😄 Pronouns: She/Her<br>
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
